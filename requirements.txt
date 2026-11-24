@@ -1,0 +1,2 @@
+gradio>=5
+pandas>=2
